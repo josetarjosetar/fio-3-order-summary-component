@@ -49,7 +49,7 @@ I applied the suggestions written in the original README.md file where the devel
 
 I also applied what I learned about more complex media queries. Mainly for different paddings between mobile and desktop and different font sizes.
 
-I applied a couple of things from the first two challenges that I did. They were CSS reset and using environment variables.
+I applied a couple of things from the first two challenges that I did. They were CSS reset and using CSS variables.
 
 ### Continued development
 
